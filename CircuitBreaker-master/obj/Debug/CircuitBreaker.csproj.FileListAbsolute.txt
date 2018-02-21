@@ -1,0 +1,11 @@
+D:\Development_Avecto\DotNetCircuitBreaker-master\DotNetCircuitBreaker-master\bin\Debug\DotNetCircuitBreaker.dll
+D:\Development_Avecto\DotNetCircuitBreaker-master\DotNetCircuitBreaker-master\bin\Debug\DotNetCircuitBreaker.pdb
+D:\Development_Avecto\DotNetCircuitBreaker-master\DotNetCircuitBreaker-master\obj\Debug\CircuitBreaker.csproj.CoreCompileInputs.cache
+D:\Development_Avecto\DotNetCircuitBreaker-master\DotNetCircuitBreaker-master\obj\Debug\DotNetCircuitBreaker.dll
+D:\Development_Avecto\DotNetCircuitBreaker-master\DotNetCircuitBreaker-master\obj\Debug\DotNetCircuitBreaker.pdb
+D:\Development_Avecto\CircuitBreakerImplementation\CircuitBreaker-master\bin\Debug\DotNetCircuitBreaker.dll
+D:\Development_Avecto\CircuitBreakerImplementation\CircuitBreaker-master\bin\Debug\DotNetCircuitBreaker.pdb
+D:\Development_Avecto\CircuitBreakerImplementation\CircuitBreaker-master\obj\Debug\CircuitBreaker.csprojResolveAssemblyReference.cache
+D:\Development_Avecto\CircuitBreakerImplementation\CircuitBreaker-master\obj\Debug\CircuitBreaker.csproj.CoreCompileInputs.cache
+D:\Development_Avecto\CircuitBreakerImplementation\CircuitBreaker-master\obj\Debug\DotNetCircuitBreaker.dll
+D:\Development_Avecto\CircuitBreakerImplementation\CircuitBreaker-master\obj\Debug\DotNetCircuitBreaker.pdb

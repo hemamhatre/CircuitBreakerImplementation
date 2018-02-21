@@ -1,0 +1,5 @@
+D:\Development_Avecto\CircuitBreakerImplementation\CircuitBreaker-master\bin\Debug\DotNetCircuitBreaker.dll
+D:\Development_Avecto\CircuitBreakerImplementation\CircuitBreaker-master\bin\Debug\DotNetCircuitBreaker.pdb
+D:\Development_Avecto\CircuitBreakerImplementation\CircuitBreaker-master\obj\Debug\BaseCircuitBreaker.csproj.CoreCompileInputs.cache
+D:\Development_Avecto\CircuitBreakerImplementation\CircuitBreaker-master\obj\Debug\DotNetCircuitBreaker.dll
+D:\Development_Avecto\CircuitBreakerImplementation\CircuitBreaker-master\obj\Debug\DotNetCircuitBreaker.pdb
